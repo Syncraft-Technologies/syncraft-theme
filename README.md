@@ -8,6 +8,10 @@ Clone the repository and link it to your Klipper configuration directory named a
 
 ```bash
 cd ~
+```
+```bash
 git clone https://github.com/Syncraft-Technologies/syncraft-theme.git
+```
+```bash
 ln -s ~/syncraft-theme printer_data/config/.theme
 ```
